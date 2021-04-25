@@ -4,6 +4,9 @@ Get ready to watch, remember, and repeat! The Simon game is the exciting digital
 
 Keep track of your score as you challenge friends or try to beat your own high score!
 
+Instruction: You're given 4 Colour Pads. In the beginning press any key to start the game. Randomly one of the Pads will trigger remember the Sequence in which pads triggered and click the Pads in the Same order. 
+
+
 [History of the Game](https://en.wikipedia.org/wiki/Simon_(game))
 
 [Instruction](https://www.youtube.com/watch?v=1Yqj76Q4jJ4)
