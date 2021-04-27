@@ -32,7 +32,7 @@ Deployment: https://pranshukas.github.io/Simon-Game/
 ## Authors
 
   - **Pranshu Kashyap**
-    ([pranshukas](https://pranshukas.github.io/Simon-Game/))
+    ([pranshukas](https://github.com/pranshukas))
     
 ## License
 
